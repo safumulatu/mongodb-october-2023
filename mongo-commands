@@ -104,9 +104,9 @@ LIMIT AND SKIP
 
 SORT
 
+---db.products.find().sort({price:1})
+
 ---db.products.find().sort({price:-1})
-
-
 // Validation 
 
 
